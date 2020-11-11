@@ -1,5 +1,5 @@
-# webpack-configuracion-estandar
-Fin de la sección 8
+## Conexión a una API externa de chistes. La aplicación pinta chistes de forma aleatoria al pulsar el botón
+
 
 
 ## Nota
