@@ -1,10 +1,7 @@
-Conexión a una API externa de chistes. La aplicación pinta chistes de forma aleatoria al pulsar el botón
+## Conexión a una API externa de chistes. La aplicación pinta chistes de forma aleatoria al pulsar el botón
 
 
 
-
-
-# Webpack 
 ## Nota
 Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
 
